@@ -15,8 +15,8 @@ Interact with CrowdStrike API's to run or queue Real Time Response scripts or ac
 * Somewhere to run python3.
 
 ## Directions
-1. `git clone https://github.com/SecOpsSteve/CrowdStrikeQueuedOperations.git`
-1. `cd CrowdStrikeQueuedOperations`
+1. `git clone https://github.com/SecOpsSteve/CSQO.git`
+1. `cd CSQO`
 1. Produce a list of hosts (new line delimited).
 1. The API ClientID and Secret is read in from the environment. Set them with;
     1. `export csID="<api_clientID>"`
